@@ -13,7 +13,7 @@ To run this application, all you need is a web browser that supports HTML5, CSS3
 
 Installation
 Clone the Repository:
-git clone https://github.com/iamsreehariks/PRODIGY_WD_02
+git clone https://github.com/bensabu10/PRODIGY_WD_02/edit/main/README.md
 Navigate to the Project Directory:
 cd stopwatch-web-app
 Open index.html in your web browser to start using the stopwatch.
